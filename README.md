@@ -17,7 +17,6 @@ Responsive layout with clean UI and functional buttons for numbers, operators, p
 
 [Try it here](https://anuragghutke.github.io/calculator/)  
 
-*(Replace the link with your GitHub Pages URL after pushing)*
 
 ## Author
 
